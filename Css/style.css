@@ -1,0 +1,18 @@
+*{
+    font-family: "Times New Roman";
+}
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+.content{
+   background: linear-gradient(to right, #F8EDE3 ,#D0B8A8 ,#DFD3C3 ,#C5705D);
+   width: 750px;
+   height: 550px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius:30px ;
+   margin: 0 auto;
+   margin-top: 100px;
+  
+}
